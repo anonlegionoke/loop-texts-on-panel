@@ -1,0 +1,11 @@
+{
+"description" : "Display any texts on top panel and make it run in loop",
+"name" : "Loop Texts on Panel",
+"shell-version" : [
+"44", "45"
+],
+
+"url" : "",
+"uuid" : "looptextsonpanel@legio",
+"version" : 1
+}
